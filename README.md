@@ -1,3 +1,4 @@
+ ![Untitled design (1)](https://github.com/KRISZIAH/KRISZIAH/assets/155798339/e3be8d98-a527-4043-9dea-2e21b930e851) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krisziah&label=Profile%20views&color=0e75b6&style=flat" alt="krisziah" /> </p>
 <h1 align="center">Hey!👋, I'm Krisziah Vinoya</h1>
 <h3 align="center">I am a BSIT-WMA student at FEU Institute of Technology</h3>
