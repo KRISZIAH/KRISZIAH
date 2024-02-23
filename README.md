@@ -6,7 +6,7 @@
 
 
 
-- 🔭About me **A second-year college student at FEU Tech pursuing a Bachelor of Science in Information Technology with a specialization in Web and Mobile Application (BSIT WMA). I'm aspiring to be a Web developer and I'm eager to explore new technologies and contribute to open-source projects.**
+- 🔭About me: **A second-year college student at FEU Tech pursuing a Bachelor of Science in Information Technology with a specialization in Web and Mobile Application (BSIT WMA). I'm aspiring to be a Web developer and I'm eager to explore new technologies and contribute to open-source projects.**
 
 - 🌱 I’m currently learning: **Python, Database and Web Design**
 
