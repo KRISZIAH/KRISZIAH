@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krisziah&label=Profile%20views&color=0e75b6&style=flat" alt="krisziah" /> </p>
 <h1 align="center">Hey!👋, I'm Krisziah Vinoya</h1>
 <h3 align="center">I am a BSIT-WMA student at FEU Institute of Technology</h3>
-<img align="right" width="400" src="https://art.pixilart.com/sr2712ab0b35ecd.gif">
+<img align="right" width="200" src="https://art.pixilart.com/sr2712ab0b35ecd.gif">
 
 
 
