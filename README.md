@@ -1,5 +1,7 @@
  ![Untitled design (1)](https://github.com/KRISZIAH/KRISZIAH/assets/155798339/e3be8d98-a527-4043-9dea-2e21b930e851) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krisziah&label=Profile%20views&color=0e75b6&style=flat" alt="krisziah" /> </p>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=528AF7&random=false&width=435&lines=Live+what+you+love!" alt="Typing SVG" /></a></h1>
+ 
 <h1 align="center">Hey!👋, I'm Krisziah Vinoya</h1>
 <h3 align="center">I am a BSIT-WMA student at FEU Institute of Technology</h3>
 <img align="right" width="200" src="https://art.pixilart.com/sr2712ab0b35ecd.gif">
